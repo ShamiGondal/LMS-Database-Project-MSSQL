@@ -1,0 +1,19 @@
+{
+  "name": "lms_database",
+  "version": "1.0.0",
+  "description": "lms database in sql with faker to upload the data in sql server and python file to generate random data",
+  "main": "CSVUploader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faker",
+    "python",
+    "node",
+    "csvuploader",
+    "lms",
+    "database"
+  ],
+  "author": "Shami Gondal",
+  "license": "ISC"
+}

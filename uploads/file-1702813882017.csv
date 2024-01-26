@@ -1,0 +1,31 @@
+CourseID,CourseName,CourseDescription,TeacherID,AdminID
+1,Introduction to Computer Science,Fundamentals of computer science and programming.,211,61
+2,Human Anatomy and Physiology,Study of the structure and function of the human body.,212,62
+3,Electrical Circuits and Systems,Principles and analysis of electrical circuits.,213,63
+4,Structural Engineering,Design and analysis of structures and construction materials.,214,64
+5,Business Management Principles,Fundamental principles of business management.,215,65
+6,Legal Studies,Introduction to legal concepts and practices.,216,66
+7,Financial Accounting,Principles of financial accounting and reporting.,217,67
+8,Pharmacology,Study of the action of drugs and their effects on living organisms.,218,68
+9,Mass Communication and Media,Introduction to mass communication theories and practices.,219,69
+10,Environmental Science,Study of the environment and its various components.,220,70
+11,Mechanical Engineering Basics,Introduction to basic concepts in mechanical engineering.,211,61
+12,Psychology Fundamentals,Basic principles and theories of psychology.,212,62
+13,International Relations and Diplomacy,Study of international relations and diplomatic practices.,213,63
+14,Economic Analysis,Principles and methods of economic analysis.,214,64
+15,Education and Teaching Methods,Introduction to education theories and teaching methods.,215,65
+16,Software Engineering Principles,Fundamental concepts in software engineering.,216,66
+17,Marketing Strategies,Strategies and techniques in marketing.,217,67
+18,Graphic Design Fundamentals,Introduction to basic principles of graphic design.,218,68
+19,Biotechnology Applications,Applications of biotechnology in various fields.,219,69
+20,Agricultural Sciences,Study of agricultural practices and innovations.,220,70
+21,Data Science Fundamentals,Introduction to data science concepts and techniques.,221,71
+22,Public Health Principles,Study of public health principles and practices.,222,72
+23,Network Security Basics,Basic principles and practices in network security.,223,73
+24,Urban Planning and Development,Principles and practices in urban planning.,224,74
+25,Entrepreneurship Essentials,Fundamental concepts and skills for entrepreneurship.,225,75
+26,Criminal Justice,Systems and practices in criminal justice.,226,76
+27,Managerial Accounting,Principles of managerial accounting and decision-making.,227,77
+28,Pharmaceutical Chemistry,Chemical principles in pharmaceutical science.,228,78
+29,Journalism and News Reporting,Principles and practices in journalism and news reporting.,229,79
+30,Climate Change and Policy,Study of climate change and its policy implications.,230,80
